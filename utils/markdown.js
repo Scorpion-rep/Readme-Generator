@@ -37,12 +37,12 @@ ${payload.contribution}
 ${payload.test}
 
 ## Contact Information
-## GitHub 
+### GitHub 
 ${payload.username}
 ![GitHub license](https://img.shields.io/badge/license-MIT-orange.svg)
 https://github.com/${payload.username}/${payload.title}
 
-## Email
+### Email
 ${payload.email}
 
 `

@@ -12,13 +12,13 @@ This project is under the Apache license.
 * [Additional Info](#additional info)
 
 ## Description
-It's homework from Boot Camp Spot
+Boot Camp Spot HOmework
 
 ## Installation
-npm install inquirer to intall innitially
+npm install inquirer installed innitially
 
 ## Usage
-generate a professional README.md file
+To generate a professional README.md file
 
 ## Contributing
 Contact me
@@ -27,11 +27,11 @@ Contact me
 node index.js
 
 ## Contact Information
-## GitHub 
+### GitHub 
 Scorpion-rep
 ![GitHub license](https://img.shields.io/badge/license-MIT-orange.svg)
 https://github.com/Scorpion-rep/README-generator
 
-## Email
+### Email
 kim.landuyt@gmail.com
 
