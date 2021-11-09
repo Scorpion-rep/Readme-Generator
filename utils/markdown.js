@@ -13,16 +13,16 @@ function generateMarkdown(payload) {
 ## License
 This project is under the ${payload.license} license.
 
-## Description
-${payload.description}
-
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
 * [Test](#test)
-* [Questions](#questions)
+* [Additional Info](#additional info)
+
+## Description
+${payload.description}
 
 ## Installation
 ${payload.installation}
@@ -36,9 +36,10 @@ ${payload.contribution}
 ## Test
 ${payload.test}
 
-## GitHub Page
+## Contact Information
+## GitHub 
 ${payload.username}
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-orange.svg)
 https://github.com/${payload.username}/${payload.title}
 
 ## Email

@@ -10,7 +10,7 @@ const path = require("path");
 // app should ask for userinput
 inquirer.prompt ([
     {       // project title
-        message: "What is Title of your project?",
+        message: "What is the title of your project?",
         name: "title",
         type: "input",
     },
@@ -30,7 +30,7 @@ inquirer.prompt ([
         type: "input",
     },
     {       // constribution guidelines 
-        message: "What are contribution guidelines?",
+        message: "How can user contribute to this project?",
         name: "contribution",
         type: "input",
     },

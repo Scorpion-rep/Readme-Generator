@@ -1,35 +1,36 @@
-# Title: README-Generator ![license MIT](https://img.shields.io/badge/license-MIT-green)
+# Title: README-generator ![license Apache](https://img.shields.io/badge/license-Apache-green)
 
 ## License
-This project is under the MIT license.
-
-## Description
-The app is for user to generate a Readme.md file
+This project is under the Apache license.
 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#test)
-* [Questions](#questions)
+* [Test](#test)
+* [Additional Info](#additional info)
+
+## Description
+It's homework from Boot Camp Spot
 
 ## Installation
-npm install inquirer to be run innitially
+npm install inquirer to intall innitially
 
 ## Usage
-It's for any one who wish to use for their project
+generate a professional README.md file
 
 ## Contributing
-None
+Contact me
 
 ## Test
 node index.js
 
-## GitHub Page
+## Contact Information
+## GitHub 
 Scorpion-rep
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-https://github.com/Scorpion-rep/README-Generator
+![GitHub license](https://img.shields.io/badge/license-MIT-orange.svg)
+https://github.com/Scorpion-rep/README-generator
 
 ## Email
 kim.landuyt@gmail.com
