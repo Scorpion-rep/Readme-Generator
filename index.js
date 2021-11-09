@@ -49,13 +49,18 @@ inquirer.prompt ([
             "Apache"
         ]
     },
-    {   // Questions for user's details          
+    {
+        message: "Where did you learn programming language?",
+        name: "question",
+        type: "input",
+    },   
+    {            
         message: "What is your GitHub username?",
         name: "username",
         type: "input",
     },
     {
-        message: "What is your email address?",
+        message: "What is your email address:",
         name: "email",
         type: "input",
     }

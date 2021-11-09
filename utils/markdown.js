@@ -11,7 +11,7 @@ function generateMarkdown(payload) {
   return `# Title: ${payload.title} ${makeBadge("license", payload.license)}
 
 ## License
-This project is under the ${payload.license} license.
+This project is under the ${payload.license} license
 
 ## Table of Contents
 * [Installation](#installation)
@@ -19,7 +19,7 @@ This project is under the ${payload.license} license.
 * [License](#license)
 * [Contributing](#contributing)
 * [Test](#test)
-* [Additional Info](#additional info)
+* [Questions](#questions)
 
 ## Description
 ${payload.description}
@@ -36,13 +36,15 @@ ${payload.contribution}
 ## Test
 ${payload.test}
 
-## Contact Information
-### GitHub 
+## Questions
+I learned programming language at ${payload.question} UWA. If you have any questions, please contact me at the Info below
+
+## GitHub
 ${payload.username}
 ![GitHub license](https://img.shields.io/badge/license-MIT-orange.svg)
 https://github.com/${payload.username}/${payload.title}
 
-### Email
+## Email address
 ${payload.email}
 
 `
